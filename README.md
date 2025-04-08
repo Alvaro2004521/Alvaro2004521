@@ -12,7 +12,7 @@
 
 <br><br>
 
-- :school: I am currently a student in the "Advanced Web Development Program" at [Your Institution's Name].
+- :school: I am currently a student in the "Advanced Web Development Program" at IES Francisco Javier de Burgos.
 - :computer: I have experience in HTML, CSS, JavaScript, PHP,Java,Mysql and Laravel.
 - :art: Passionate about crafting responsive and modern web interfaces through frontend design and robust backend development.
 - :trophy: Dedicated to continuously improving and exploring new tools and frameworks in Web Development.
